@@ -1,0 +1,11 @@
+Conversão de moedas em python
+Nesse pequeno desáfio vamos converter real em dolar, para isso o tipo da minha variável será em "float"
+Forma do código:
+
+- real = float(input("Quanto em dolar eu posso comprar com o dinheiro da minha carteira?'')
+- dolar = real/5.44
+- print(f''Com ${real} eu posso comprar U${dolar}")
+
+Nas minhas linhas do código eu tenho a variável, o tipo da variável e a entrada dos dados, finalizando com a exibição 
+do texto na função ''print''
+
